@@ -20,3 +20,7 @@ URL：https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe
 双击安装
 cmd# java -version
 验证是否安装成功
+
+常见问题
+The Binaries for this Target Platform are not currently installed
+URL：https://forums.unrealengine.com/t/no-binaries-fo-taarget-device-android/390458
